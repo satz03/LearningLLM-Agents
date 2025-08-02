@@ -1,6 +1,18 @@
 # LearningLLM-Agents
+## 🍽️ Example 1: Restaurant Helper Bot
 
-Example1: A restaurant helper bot to locate restuarants by a given city. Just ask, it is friendly and does a good job telling you the names.
- The truth behind this is a hard coded list which is accessible through a function. 
-     --future improvement
-    -- support google search and google map and not maintain it's own dictionary. 
+A friendly restaurant bot that helps you locate restaurants in a given city.  
+Just ask — it will cheerfully return a list of suggestions!
+
+### 🧠 How It Works
+
+Behind the scenes, the bot uses a hard-coded list of restaurants accessible via a simple function.
+
+### ▶️ How to Run
+
+Use **JupyterLab** to run this example.
+
+```bash
+brew install ffmpeg
+
+    
